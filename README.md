@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JT122406
 - 👀 I’m interested in Java/Minecraft development and Computer Hardware
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and x86 Assembly
 - 💞️ I’m looking to collaborate on Minecraft Plugins/Mods
 - 📫 How to reach me Discord: JT122406#6777
 
