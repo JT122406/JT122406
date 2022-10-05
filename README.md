@@ -6,7 +6,7 @@
 
 My Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JT122406&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JT122406&show_icons=true&theme=tokyonight&count_private=true)
 
 My top Languages:
 
