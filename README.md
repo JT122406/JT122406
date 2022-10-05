@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JT122406
+- 👋 Hi, I’m J.T. McQuigg
 - 👀 I’m interested in Java/Minecraft development and Computer Hardware
 - 🌱 I’m currently learning C, x86 Assembly and Kotlin
 - 💞️ I’m looking to collaborate on Minecraft Plugins/Mods
