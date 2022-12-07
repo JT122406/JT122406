@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C, x86 Assembly and Kotlin
 - 💞️ I’m looking to collaborate on Minecraft Plugins/Mods
 - 📫 How to reach me Discord: JT122406#6777
+- 💼 Currently Working on PokéMod
 
 My Stats:
 
