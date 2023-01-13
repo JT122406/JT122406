@@ -1,4 +1,5 @@
 - 👋 Hi, I’m J.T. McQuigg
+- 🏢 Currently A Software Developer at Bayer
 - 👀 I’m interested in Java/Minecraft development and Computer Hardware
 - 🌱 I’m currently learning C and Kotlin
 - 💞️ I’m looking to collaborate on Minecraft Plugins/Mods
@@ -15,6 +16,7 @@ My top Languages:
 
 My Organizations: 
 PokéMod/Pixelmon Generations: [https://github.com/PixelmonGenerations](https://github.com/PlayPokeMod)
+
 Lightning-MC.xyz: https://github.com/Lightning-MC
 <!---
 JT122406/JT122406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
