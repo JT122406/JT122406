@@ -1,7 +1,7 @@
 - 👋 Hi, I’m J.T. McQuigg
 - 🏢 Currently A Software Developer at Bayer
-- 👀 I’m interested in Java/Minecraft development and Computer Hardware
-- 🌱 I’m currently learning C and Kotlin
+- 👀 I’m interested in Java/Minecraft development and Computer Engineering
+- 🌱 I’m currently learning Kotlin and JavaScript
 - 💞️ I’m looking to collaborate on Minecraft Plugins/Mods
 - 📫 How to reach me Discord: JT122406#6777
 - 💼 Currently Working on PokéMod
