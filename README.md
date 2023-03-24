@@ -1,10 +1,8 @@
-- 👋 Hi, I’m J.T. McQuigg
-- 🏢 Currently A Software Developer at Bayer
-- 👀 I’m interested in Java/Minecraft development and Computer Engineering
-- 🌱 I’m currently learning Kotlin and JavaScript
-- 💞️ I’m looking to collaborate on Minecraft Plugins/Mods
-- 📫 How to reach me Discord: JT122406#6777
-- 💼 Currently Working on PokéMod
+👋 Hi, I’m J.T. McQuigg
+I am a 20 year old Software Developer and Student currently attending Rutgers University https://www.rutgers.edu/ ![Logo-Rutgers-University](https://user-images.githubusercontent.com/75751882/227621948-da74d637-fab2-480b-b297-3c20e92cea9c.jpg)
+I am Currently working as a Software Developer at Bayer https://www.bayer.com/en/
+
+How to reach me Discord: JT122406#6777
 
 My Stats:
 
