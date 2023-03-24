@@ -1,6 +1,8 @@
 👋 Hi, I’m J.T. McQuigg
-I am a 20 year old Software Developer and Student currently attending Rutgers University https://www.rutgers.edu/ ![Logo-Rutgers-University](https://user-images.githubusercontent.com/75751882/227621948-da74d637-fab2-480b-b297-3c20e92cea9c.jpg)
+I am a 20 year old Software Developer and Student currently attending Rutgers University https://www.rutgers.edu/
 I am Currently working as a Software Developer at Bayer https://www.bayer.com/en/
+Some of my Personal Projects I work on include PokeMod, HungerGames, BedWars1058, Minecraft Forge, and many more contributions across the Minecraft
+Software community.
 
 How to reach me Discord: JT122406#6777
 
