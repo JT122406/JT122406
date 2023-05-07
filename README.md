@@ -2,7 +2,7 @@
 I am a 20 year old Software Developer and Student currently attending [Rutgers University](https://www.rutgers.edu/)
 
 I am Currently working as a Software Developer at [Bayer](https://www.bayer.com/en/)
-Some of my Personal Projects I work on include PokeMod, HungerGames, BedWars1058, Minecraft Forge, and many more contributions across the Minecraft
+Some of my Personal Projects I work on include Pixelmon Generations, HungerGames, BedWars1058, Minecraft Forge, and many more contributions across the Minecraft
 Software community.
 
 How to reach me Discord: JT122406#6777
@@ -20,7 +20,7 @@ Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JT122406&theme=dark)](https://git.io/streak-stats)
 
 My Organizations: 
-PokéMod/Pixelmon Generations: [https://github.com/PixelmonGenerations](https://github.com/PlayPokeMod)
+Pixelmon Generations: (https://github.com/GenerationsMod)
 
 <!---
 JT122406/JT122406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
