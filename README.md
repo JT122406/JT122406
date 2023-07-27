@@ -1,7 +1,7 @@
 👋 Hi, I’m J.T. McQuigg
-I am a 20 year old Software Developer and Student currently attending [Rutgers University](https://www.rutgers.edu/)
+I am a 21 year old Software Developer and Student currently attending [Rutgers University](https://www.rutgers.edu/)
 
-I am Currently working as a Software Developer at [Bayer](https://www.bayer.com/en/)
+I just finished a coop as a Software Developer at [Bayer](https://www.bayer.com/en/)
 Some of my Personal Projects I work on include Pixelmon Generations, HungerGames, BedWars1058, Minecraft Forge, and many more contributions across the Minecraft
 Software community.
 
@@ -20,7 +20,7 @@ Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JT122406&theme=dark)](https://git.io/streak-stats)
 
 My Organizations: 
-Pixelmon Generations: (https://github.com/GenerationsMod)
+Generations: (https://github.com/GenerationsMod)
 
 <!---
 JT122406/JT122406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
