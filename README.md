@@ -21,6 +21,7 @@ Streak Stats:
 
 My Organizations: 
 Generations: (https://github.com/GenerationsMod)
+Mythical Network: (https://github.com/PokeNinjas)
 
 <!---
 JT122406/JT122406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
