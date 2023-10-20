@@ -13,7 +13,7 @@ My Stats:
 
 My top Languages:
 
-[![Top Langs](https://github-readme-stats-xak8.vercel.app/api/top-langs/?username=JT122406&layout=compact&count_private=true&theme=tokyonight)]
+![Top Langs](https://github-readme-stats-xak8.vercel.app/api/top-langs/?username=JT122406&layout=compact&count_private=true&theme=tokyonight)
 
 Streak Stats:
 
