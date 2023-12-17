@@ -9,11 +9,11 @@ How to reach me Discord: JT122406#6777
 
 My Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats-xak8.vercel.app/api?username=JT122406&show_icons=true&theme=tokyonight&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-jt-mcquiggs-projects.vercel.app/api?username=JT122406&show_icons=true&theme=tokyonight&count_private=true)
 
 My top Languages:
 
-![Top Langs](https://github-readme-stats-xak8.vercel.app/api/top-langs/?username=JT122406&layout=compact&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-jt-mcquiggs-projects.vercel.app/api/top-langs/?username=JT122406&layout=compact&count_private=true&theme=tokyonight)
 
 Streak Stats:
 
