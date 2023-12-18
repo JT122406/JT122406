@@ -13,7 +13,7 @@ My Stats:
 
 My top Languages:
 
-![Top Langs](https://github-readme-stats-jt-mcquiggs-projects.vercel.app/api/top-langs/?username=JT122406&layout=compact&count_private=true&theme=tokyonight&size_weight=1&count_weight=0&hide=rust,shell,makefile)
+![Top Langs](https://github-readme-stats-jt-mcquiggs-projects.vercel.app/api/top-langs/?username=JT122406&layout=compact&count_private=true&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=rust,shell,makefile)
 
 Streak Stats:
 
