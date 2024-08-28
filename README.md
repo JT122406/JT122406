@@ -3,7 +3,7 @@ I am a 21 year old Software Developer and just graduated from [Rutgers Universit
 
 I did a CO-OP as a Software Enigneer at [Bayer](https://www.bayer.com/en/) in 2023
 
-Some of my Personal Projects include Pixelmon Generations, HungerGames, BedWars1058, Minecraft Forge, NeoForge, Oh The Biomes You'll Go and many more contributions across the Minecraft and Java
+Some of my Personal Projects include Oh The Biomes We'be Gone, Pixelmon Generations, HungerGames, BedWars1058, Minecraft Forge, NeoForge, Oh The Biomes You'll Go and many more contributions across the Minecraft and Java
 Software community.
 
 How to reach me Discord: JT122406#6777
