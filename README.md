@@ -1,5 +1,5 @@
 👋 Hi, I’m Joseph (J.T.) McQuigg
-I am a 21 year old Software Developer and just graduated from [Rutgers University](https://www.rutgers.edu/) with a Bachelor of Arts in Computer Science
+I am a 22 year old Software Developer and just graduated from [Rutgers University](https://www.rutgers.edu/) with a Bachelor of Arts in Computer Science
 
 I did a CO-OP as a Software Enigneer at [Bayer](https://www.bayer.com/en/) in 2023
 
