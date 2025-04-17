@@ -1,9 +1,9 @@
 👋 Hi, I’m Joseph (J.T.) McQuigg
-I am a 22 year old Software Developer and just graduated from [Rutgers University](https://www.rutgers.edu/) with a Bachelor of Arts in Computer Science
+I am a 22 year old Software Developer for the [New Jersey State Police](https://www.nj.gov/njsp/) and just graduated from [Rutgers University](https://www.rutgers.edu/) with a Bachelor of Arts in Computer Science
 
 I did a CO-OP as a Software Enigneer at [Bayer](https://www.bayer.com/en/) in 2023
 
-Some of my Personal Projects include Oh The Biomes We've Gone, Pixelmon Generations, HungerGames, BedWars1058, Minecraft Forge, NeoForge, Oh The Biomes You'll Go and many more contributions across the Minecraft and Java
+Some of my Personal Projects include Oh The Biomes We've Gone, Pixelmon Generations, HungerGames, BedWars1058, Minecraft Forge, NeoForge, Fabric, TAB, Oh The Biomes You'll Go and many more contributions across the Minecraft and Java
 Software community.
 
 How to reach me Discord: JT122406#6777
